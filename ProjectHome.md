@@ -1,0 +1,1 @@
+A DIY MIDI trigger based around the TI launchpad, using piezo elements to record the drumkit.
